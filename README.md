@@ -1,6 +1,6 @@
 #  Sales Insights Dashboard: Analyzing Sales Data with Excel
 
-![WhatsApp Image 2024-05-06 at 13 20 29_51193b1c](https://github.com/thecodinganjali/Sales-Dashboard--Advanced-Excel/assets/168422801/a92ea7ba-e64b-4f14-a55e-a3c1c20b150e)
+![Screenshot (531)](https://github.com/user-attachments/assets/38fccd11-9745-4a56-8352-634f88a5c8fd)
 
 ## Introduction
 
