@@ -1,6 +1,5 @@
 #  Sales Insights Dashboard: Analyzing Sales Data with Excel
 
-![Screenshot (531)](https://github.com/user-attachments/assets/38fccd11-9745-4a56-8352-634f88a5c8fd)
 
 ## Introduction
 
@@ -24,13 +23,14 @@ The Sales Analysis Dashboard is designed to provide comprehensive insights into 
  
  # Report Snapshot 
 
-![Screenshot (232)](https://github.com/thecodinganjali/Sales-Dashboard--Advanced-Excel/assets/168422801/cbd1e48e-3008-4e0c-9225-216270a48a3c)
+![Screenshot (531)](https://github.com/user-attachments/assets/38fccd11-9745-4a56-8352-634f88a5c8fd)
 
 ##  Visualization Tools
 
  1) Tool used: **Advanced Excel**
 
- 2) Dataset Used : [ Sales Dataset](https://github.com/thecodinganjali/Sales-Dashboard--Advanced-Excel/blob/main/Sales%20Raw%20data%20.xlsx)
+ 2) Dataset Used : [salesdata (1).csv](https://github.com/user-attachments/files/16993715/salesdata.1.csv)
+
 
  ## Conclusion 
 
